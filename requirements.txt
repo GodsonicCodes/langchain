@@ -33,3 +33,10 @@ huggingface_hub
 fastapi
 uvicorn
 langserve
+langchain
+langserve[all]
+fastapi
+uvicorn
+chatgroq
+python-dotenv
+sse-starlette
