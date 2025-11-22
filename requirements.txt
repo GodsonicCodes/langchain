@@ -37,6 +37,5 @@ langchain
 langserve[all]
 fastapi
 uvicorn
-chatgroq
 python-dotenv
 sse-starlette
